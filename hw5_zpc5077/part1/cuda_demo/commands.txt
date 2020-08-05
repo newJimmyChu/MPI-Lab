@@ -1,0 +1,1 @@
+nvcc cuda_tutorial11.cu -o cuda_tutorial11.out
